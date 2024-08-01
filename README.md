@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/TanotiCoder/TanotiCoder/assets/81159555/5356e100-2b97-41ad-952f-01e7ca07608a" alt="profile-first-pr-dark" />
+<img src="https://t3.ftcdn.net/jpg/07/86/81/54/240_F_786815489_nKig0QxnZHAIb8B4V1YstfBqE9IGfs6C.jpg" alt="profile-first-pr-dark" />
 </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I`m+Siddharth+Singh" alt="Typing SVG" /></a></h1>
