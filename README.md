@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **siddharthsingh0724@gmial.com**
 
-- 📄 Know about my experiences Siddharth_First_Fresher_CV new (1).pdf
+- 📄 Know about my experiences https://github.com/ceedcode/ceedcode/blob/97c106ec3c2750bc8453e1b65248313040fae9a0/Resume.pdf
 - ⚡ Fun fact **I love diving into new experiences and meeting new people, always on the lookout for the next exciting adventure**
 
 <h3 align="left">Connect with me:</h3>
