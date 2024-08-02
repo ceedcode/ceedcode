@@ -18,8 +18,7 @@
 
 - 📫 How to reach me **siddharthsingh0724@gmial.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eQrPOaVcce6g1EQ5aUzckemlh84K8n5p/view](https://drive.google.com/file/d/1eQrPOaVcce6g1EQ5aUzckemlh84K8n5p/view)
-
+- 📄 Know about my experiences Siddharth_First_Fresher_CV new (1).pdf
 - ⚡ Fun fact **I love diving into new experiences and meeting new people, always on the lookout for the next exciting adventure**
 
 <h3 align="left">Connect with me:</h3>
