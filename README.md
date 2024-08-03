@@ -1,9 +1,10 @@
 <p align="center"> 
-<img src="https://t3.ftcdn.net/jpg/07/86/81/54/240_F_786815489_nKig0QxnZHAIb8B4V1YstfBqE9IGfs6C.jpg" alt="profile-first-pr-dark" />
+<img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="profile-first-pr-dark" />
 </p>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I`m+Siddharth+Singh" alt="Typing SVG" /></a></h1>
-<h3 align="center">One day or day one, you decide.<br> Every great journey begins with a single step, make today the start of something extraordinary.</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3E5EB4&center=true&vCenter=true&multiline=true&width=700&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddharth+Singh" alt="Typing SVG" /></a></h1>
+
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6CC0ED&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=55&lines=One+day+or+day+one%2C+you+decide." alt="Typing SVG" /></a></h2>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceedcode&label=Profile%20views&color=0e75b6&style=flat" alt="ceedcode" /> </p>
