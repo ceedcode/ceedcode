@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React, Vue, Angular**
 
-- 📫 How to reach me **siddharthsingh0724@gmial.com**
+- 📫 How to reach me **siddharthsingh0724@gmail.com**
 
 - 📄 Know about my experiences https://github.com/ceedcode/ceedcode/blob/97c106ec3c2750bc8453e1b65248313040fae9a0/Resume.pdf
 - ⚡ Fun fact **I love diving into new experiences and meeting new people, always on the lookout for the next exciting adventure**
